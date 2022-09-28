@@ -1,1 +1,1 @@
-detail page
+detail page love
