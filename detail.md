@@ -1,1 +1,1 @@
-detail
+detail page test
